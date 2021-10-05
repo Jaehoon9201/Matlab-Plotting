@@ -11,5 +11,4 @@
 # Matlab-lr_decay
 
 ### Results  
-![image](https://user-images.githubusercontent.com/71545160/135572933-4874b5fb-e773-4651-b1f5-035023cd62c6.png)
-
+![image](https://user-images.githubusercontent.com/71545160/135949393-07a0589e-b643-4e54-8513-30058c7e6ac9.png)
