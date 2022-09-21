@@ -12,3 +12,9 @@
 
 ### Results  
 ![image](https://user-images.githubusercontent.com/71545160/135949393-07a0589e-b643-4e54-8513-30058c7e6ac9.png)
+
+
+
+# plot_lib_ex
+
+We could set options of **plotfunc_optx** in **plotfunc_optx.m**
